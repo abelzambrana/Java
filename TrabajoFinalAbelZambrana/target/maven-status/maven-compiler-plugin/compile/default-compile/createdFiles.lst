@@ -1,0 +1,10 @@
+modelo\Tecnico.class
+modelo\Servicio.class
+modelo\EntidadId.class
+modelo\ReporteIncidencia.class
+modelo\DatosContacto.class
+modelo\Cliente.class
+modelo\OperadorMesaAyuda.class
+com\utn\trabajofinalabelzambrana\TrabajoFinalAbelZambrana.class
+modelo\Empleado.class
+modelo\Especialidad.class
